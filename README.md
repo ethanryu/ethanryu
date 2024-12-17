@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ethanryu GitHub stats](https://github-readme-stats.vercel.app/api?username=punkdrug@gmail.com&show_icons=true&theme=radical)
+![ethanryu GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanryu&show_icons=true&theme=radical)
