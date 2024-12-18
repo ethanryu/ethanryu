@@ -1,7 +1,6 @@
 <h1>Ethan 😉</h1>
 
 - 🌱 I’m currently learning Go, k8s
-- 🥇 I majored in computer science
 - 🤔 I'm currently working on an invoice conversion side project
 
 
