@@ -1,10 +1,7 @@
 <h1>Ethan 😉</h1>
 
-- 🌱 I’m currently learning Go, k8s
-- 🤔 I'm currently working on an invoice conversion side project
 
 
-![ethanryu GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanryu&show_icons=true&theme=radical)
 
 <h3 align="left">📚 Tech Stack 📚</h3>
 <p align="left">
